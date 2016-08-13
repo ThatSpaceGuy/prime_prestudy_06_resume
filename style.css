@@ -17,3 +17,11 @@ body {
 .profhist {
   background: linear-gradient(to bottom, #FFFFFF, #AAAAAA);
 }
+
+.page-header{
+  border-width: 0px
+}
+
+.resume {
+  display: none;
+}
