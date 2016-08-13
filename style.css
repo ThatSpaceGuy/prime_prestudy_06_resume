@@ -1,0 +1,19 @@
+
+body {
+  background-color: #00000;
+  background-image: url(http://zebu.uoregon.edu/hudf/hudf_300dpi.jpg);
+  background-position: top left;
+  background-repeat: repeat;
+}
+
+.header-name {
+  color: #DDDDDD;
+}
+
+.mainpanel {
+  background: linear-gradient(to bottom, #D2D2D2, #EE932A);
+}
+
+.profhist {
+  background: linear-gradient(to bottom, #FFFFFF, #AAAAAA);
+}
